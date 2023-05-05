@@ -1,0 +1,11 @@
+{
+  "name": "fmock",
+  "version": "1.0.0",
+  "description": "File-based mocking PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/mock.test.js"
+  },
+  "author": "Zvonimir Rudinski <zvonimirr@mailfence.com>",
+  "license": "MIT"
+}
